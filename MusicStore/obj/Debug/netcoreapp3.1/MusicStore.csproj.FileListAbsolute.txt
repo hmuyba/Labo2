@@ -1,0 +1,13 @@
+D:\University\10mo\Arquitectura de software\labo2\MusicStore\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.exe
+D:\University\10mo\Arquitectura de software\labo2\MusicStore\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.deps.json
+D:\University\10mo\Arquitectura de software\labo2\MusicStore\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.runtimeconfig.json
+D:\University\10mo\Arquitectura de software\labo2\MusicStore\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.runtimeconfig.dev.json
+D:\University\10mo\Arquitectura de software\labo2\MusicStore\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.dll
+D:\University\10mo\Arquitectura de software\labo2\MusicStore\MusicStore\bin\Debug\netcoreapp3.1\MusicStore.pdb
+D:\University\10mo\Arquitectura de software\labo2\MusicStore\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.csprojAssemblyReference.cache
+D:\University\10mo\Arquitectura de software\labo2\MusicStore\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.AssemblyInfoInputs.cache
+D:\University\10mo\Arquitectura de software\labo2\MusicStore\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.AssemblyInfo.cs
+D:\University\10mo\Arquitectura de software\labo2\MusicStore\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.csproj.CoreCompileInputs.cache
+D:\University\10mo\Arquitectura de software\labo2\MusicStore\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.dll
+D:\University\10mo\Arquitectura de software\labo2\MusicStore\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.pdb
+D:\University\10mo\Arquitectura de software\labo2\MusicStore\MusicStore\obj\Debug\netcoreapp3.1\MusicStore.genruntimeconfig.cache
